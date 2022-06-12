@@ -2,7 +2,7 @@ Using Minmax seach algorithm to implement an AI to play tic tac toe optimally.
 
 Its impossible to win, good luck :)
 
-**Requirements: **
+**Requirements:**
 
     -Python 3 and pip3 python package installer
 
