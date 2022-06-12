@@ -1,3 +1,5 @@
+**README**
+
 Using Minmax seach algorithm to implement an AI to play tic tac toe optimally. 
 
 Its impossible to win, good luck :)
